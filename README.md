@@ -1,0 +1,1 @@
+# Low-Power-and-Area-Efficient-Weighted-Pseudo-Random-TPG-for-Scan-Based-BIST
